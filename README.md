@@ -1,6 +1,6 @@
 # javascriptcodecamp
 
-Solutions to the final projects of the Data Structures and Algorithms with JavaScript course on FreeCodeCamp.org.
+Solutions to the final projects of [JavaScript Data Structures and Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) course on [FreeCodeCamp](https://www.freecodecamp.org/).\
 Problem descriptions as per FreeCodeCamp are below.
 
 ## Palindrome Checker
